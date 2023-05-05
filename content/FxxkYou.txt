@@ -1,0 +1,4 @@
+The ChatGPT model is a pre trained language model developed by OpenAI. Its core algorithm is Transformer, which is a deep neural network structure based on self attention
+ mechanism and has strong sequence modeling and representation learning abilities. Through the process of pre training and fine tuning, ChatGPT model can understand and
+ generate natural language text, and play a role in various application scenarios, such as automatic question answering, intelligent customer service, voice recognition, machine
+ translation, etc.
